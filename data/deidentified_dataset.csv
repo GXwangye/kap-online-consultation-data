@@ -1,0 +1,69 @@
+id,age,sex,title,participation_status,k_score,a_score,p_score
+DOC_001,41,F,Chief Physician,1,31.0,34.0,76.0
+DOC_002,55,M,Associate Chief Physician,1,38.0,34.0,79.0
+DOC_003,45,F,Associate Chief Physician,1,35.0,32.0,79.0
+DOC_004,37,M,Chief Physician,1,31.0,31.0,73.0
+DOC_005,40,M,Associate Chief Physician,1,30.0,24.0,63.0
+DOC_006,46,F,Associate Chief Physician,1,28.0,25.0,62.0
+DOC_007,51,M,Associate Chief Physician,1,30.0,21.0,70.0
+DOC_008,50,M,Chief Physician,1,35.0,25.0,77.0
+DOC_009,53,M,Associate Chief Physician,1,33.0,32.0,67.0
+DOC_010,37,F,Associate Chief Physician,1,33.0,27.0,66.0
+DOC_011,41,M,Chief Physician,1,34.0,27.0,63.0
+DOC_012,52,M,Associate Chief Physician,1,35.0,33.0,84.0
+DOC_013,54,M,Associate Chief Physician,1,33.0,33.0,80.0
+DOC_014,42,M,Associate Chief Physician,1,32.0,28.0,62.0
+DOC_015,52,F,Associate Chief Physician,1,35.0,28.0,67.0
+DOC_016,56,M,Associate Chief Physician,1,29.0,32.0,65.0
+DOC_017,52,F,Associate Chief Physician,1,40.0,34.0,77.0
+DOC_018,38,F,Associate Chief Physician,1,37.0,30.0,87.0
+DOC_019,57,M,Associate Chief Physician,1,40.0,31.0,75.0
+DOC_020,50,F,Chief Physician,1,29.0,28.0,71.0
+DOC_021,59,M,Associate Chief Physician,1,26.0,25.0,60.0
+DOC_022,49,M,Chief Physician,1,31.0,28.0,58.0
+DOC_023,58,M,Chief Physician,1,37.0,28.0,74.0
+DOC_024,51,F,Chief Physician,1,28.0,24.0,63.0
+DOC_025,39,F,Associate Chief Physician,1,33.0,28.0,75.0
+DOC_026,41,F,Associate Chief Physician,1,35.0,25.0,60.0
+DOC_027,50,M,Associate Chief Physician,1,34.0,25.0,57.0
+DOC_028,37,F,Chief Physician,1,25.0,25.0,61.0
+DOC_029,35,M,Chief Physician,1,29.0,34.0,84.0
+DOC_030,35,F,Chief Physician,1,37.0,29.0,61.0
+DOC_031,41,M,Associate Chief Physician,1,36.0,27.0,72.0
+DOC_032,44,M,Associate Chief Physician,1,35.0,29.0,67.0
+DOC_033,41,M,Associate Chief Physician,1,36.0,31.0,68.0
+DOC_034,39,M,Associate Chief Physician,1,29.0,20.0,72.0
+DOC_035,38,F,Associate Chief Physician,1,34.0,27.0,62.0
+DOC_036,56,F,Chief Physician,1,38.0,34.0,75.0
+DOC_037,59,M,Chief Physician,1,29.0,34.0,74.0
+DOC_038,46,M,Associate Chief Physician,1,40.0,32.0,71.0
+DOC_039,57,F,Chief Physician,1,40.0,34.0,80.0
+DOC_040,35,M,Associate Chief Physician,0,32.0,24.0,56.0
+DOC_041,47,F,Associate Chief Physician,0,34.0,24.0,57.0
+DOC_042,43,M,Associate Chief Physician,0,35.0,24.0,54.0
+DOC_043,46,M,Associate Chief Physician,0,36.0,26.0,57.0
+DOC_044,58,F,Associate Chief Physician,0,35.0,23.0,55.0
+DOC_045,54,M,Associate Chief Physician,0,34.0,22.0,58.0
+DOC_046,51,M,Associate Chief Physician,0,34.0,23.0,57.0
+DOC_047,36,M,Associate Chief Physician,0,35.0,29.0,59.0
+DOC_048,35,F,Associate Chief Physician,0,35.0,25.0,57.0
+DOC_049,46,M,Associate Chief Physician,0,35.0,27.0,60.0
+DOC_050,38,M,Associate Chief Physician,0,35.0,21.0,57.0
+DOC_051,40,M,Chief Physician,0,33.0,24.0,55.0
+DOC_052,56,M,Associate Chief Physician,0,34.0,24.0,59.0
+DOC_053,40,F,Associate Chief Physician,0,35.0,25.0,56.0
+DOC_054,38,M,Chief Physician,0,34.0,23.0,58.0
+DOC_055,54,F,Chief Physician,0,34.0,23.0,59.0
+DOC_056,42,M,Chief Physician,0,35.0,27.0,56.0
+DOC_057,45,M,Associate Chief Physician,0,33.0,22.0,60.0
+DOC_058,44,M,Associate Chief Physician,0,34.0,24.0,55.0
+DOC_059,50,F,Associate Chief Physician,0,35.0,24.0,59.0
+DOC_060,35,M,Associate Chief Physician,0,34.0,24.0,57.0
+DOC_061,57,M,Chief Physician,0,35.0,24.0,58.0
+DOC_062,50,F,Chief Physician,0,34.0,23.0,58.0
+DOC_063,58,F,Associate Chief Physician,0,34.0,24.0,59.0
+DOC_064,40,F,Associate Chief Physician,0,34.0,22.0,59.0
+DOC_065,59,F,Associate Chief Physician,0,34.0,23.0,59.0
+DOC_066,48,M,Associate Chief Physician,0,34.0,26.0,58.0
+DOC_067,43,M,Associate Chief Physician,0,33.0,22.0,58.0
+DOC_068,55,M,Chief Physician,0,35.0,20.0,52.0

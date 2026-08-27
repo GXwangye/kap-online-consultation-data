@@ -1,0 +1,9 @@
+variable,label_en,label_zh,type,values_range,description
+id,De-identified ID,脱敏编号,string,DOC_001–DOC_068,Pseudonymized physician identifier; no real-name or contact info.
+age,Age,年龄,integer,35–59,Age in years at survey.
+sex,Sex,性别,categorical,M / F,"M = male, F = female."
+title,Professional title,职称,categorical,Chief Physician / Associate Chief Physician,Chief Physician = 主任医师; Associate Chief Physician = 副主任医师.
+participation_status,Online-consultation participation,在线问诊参与状态,binary,1 / 0,1 = completed ≥1 online consultation in 2024; 0 = none.
+k_score,Knowledge subscale score,知识维度总分,continuous,see scale,Sum score of the Knowledge dimension of the 77-item KAP scale (higher = more knowledge).
+a_score,Attitude subscale score,态度维度总分,continuous,see scale,Sum score of the Attitude dimension (higher = more positive attitude).
+p_score,Practice subscale score,行为维度总分,continuous,see scale,Sum score of the Practice dimension (higher = more engagement in practice).
