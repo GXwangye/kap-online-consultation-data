@@ -62,4 +62,4 @@ Data and code are released under **CC-BY 4.0**. You are free to share and adapt 
 
 ## Citation
 
-Wang Y. Physicians' online consultation engagement — de-identified KAP data and analysis code. GitHub repository. [URL to be inserted after repository creation]
+Wang Y. Physicians' online consultation engagement — de-identified KAP data and analysis code. GitHub repository. DOI: 10.5281/zenodo.22125762
