@@ -2,7 +2,7 @@
 
 This repository accompanies the manuscript:
 
-> Wang Y. *Attitude as a modifiable target in the knowledge–practice pathway of physicians' online consultation engagement.* Submitted to *PLOS Digital Health*.
+> Wang Y. *Attitude as a modifiable target in the knowledge–practice pathway of physicians' online consultation engagement.
 
 It provides the **de-identified underlying data** and the **analysis code** required to reproduce the main quantitative results reported in the paper, in line with PLOS's data-availability policy.
 
